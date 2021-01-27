@@ -5,4 +5,4 @@
 * Create Bio with markdown
 * TEST
 
-![](pic.png)
+![](pic.PNG)
