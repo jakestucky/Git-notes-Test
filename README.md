@@ -1,5 +1,5 @@
 # Jake Stucky Public Portfolio
-
+![](pic.PNG)
 ## Contact Information
 * Name-
 * Phone-
